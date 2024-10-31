@@ -1,8 +1,7 @@
-## 📖: Recommended OS
-Ubuntu 20 | Debian 11
-
-## 📖: Install script
+## 📖: Install Slowdns script
 ```bash
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sanglungmon/WarRingDa/main/Plus; chmod +x Plus; ./Plus
+wget https://raw.githubusercontent.com/sanglungmon/hunmai/main/slowdns.sh
+chmod +x slowdns.sh
+./slowdns.sh
 ```
 
