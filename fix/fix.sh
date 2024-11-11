@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # URLs ของไฟล์ที่ต้องการดาวน์โหลด
-CONFIG_URL="https://raw.githubusercontent.com/netdee/sc/refs/heads/main/fixopenvpn/server.conf"
-SCRIPT_URL="https://raw.githubusercontent.com/netdee/sc/refs/heads/main/fixopenvpn/open.py"
+CONFIG_URL="https://raw.githubusercontent.com/sanglungmon/hunmai/refs/heads/main/fix/server.conf"
+SCRIPT_URL="https://raw.githubusercontent.com/sanglungmon/hunmai/refs/heads/main/fix/open.py"
 
 # ตำแหน่งที่ตั้งของไฟล์ในเซิร์ฟเวอร์
 CONFIG_FILE="/etc/openvpn/server.conf"
