@@ -1,8 +1,8 @@
 ##  ✅: Fix
 ```bash
-wget https://raw.githubusercontent.com/sanglungmon/hunmai/main/fix/fix.sh
+curl -o fix.sh https://raw.githubusercontent.com/sanglungmon/hunmai/refs/heads/main/fixopenvpn/fix.sh
 chmod +x fix.sh
-fix.sh
+./fix.sh
 ```
 
 ## 📖: ติดตั้ง Slowdns
